@@ -2,6 +2,11 @@
 Changelog for package turtlebot4_diagnostics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2024-09-25)
+------------------
+* Reduce the expected IMU rate to the actual rate published by the Create3
+* Contributors: Chris Iverach-Brereton
+
 1.0.3 (2024-07-02)
 ------------------
 

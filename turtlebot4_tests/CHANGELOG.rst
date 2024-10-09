@@ -2,6 +2,11 @@
 Changelog for package turtlebot4_tests
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.0 (2024-09-25)
+------------------
+* Small formatting fixes
+* Contributors: Chris Iverach-Brereton
+
 1.0.3 (2024-07-02)
 ------------------
 
