@@ -1,3 +1,31 @@
+## turtlebot4_robot (jazzy) - 2.0.1-2
+
+The packages in the `turtlebot4_robot` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy turtlebot4_robot --override-release-repository-push-url git@github.com:revyos-ros/turtlebot4_robot-release.git` on `Thu, 19 Dec 2024 08:26:03 -0000`
+
+These packages were released:
+- `turtlebot4_base`
+- `turtlebot4_bringup`
+- `turtlebot4_diagnostics`
+- `turtlebot4_robot`
+- `turtlebot4_tests`
+
+Version of package(s) in repository `turtlebot4_robot`:
+
+- upstream repository: https://github.com/turtlebot/turtlebot4_robot.git
+- release repository: https://github.com/revyos-ros/turtlebot4_robot-release.git
+- rosdistro version: `2.0.1-2`
+- old version: `2.0.1-1`
+- new version: `2.0.1-2`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## turtlebot4_robot (jazzy) - 2.0.1-1
 
 The packages in the `turtlebot4_robot` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv2/bin/bloom-release -r jazzy turtlebot4_robot --override-release-repository-push-url git@github.com:revyos-ros/turtlebot4_robot-release.git` on `Thu, 19 Dec 2024 08:23:24 -0000`
