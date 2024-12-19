@@ -1,0 +1,12 @@
+Source: ros-jazzy-turtlebot4-bringup
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-auto <!nocheck>, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-create3-republisher, ros-jazzy-depthai-bridge, ros-jazzy-depthai-examples, ros-jazzy-depthai-ros-driver, ros-jazzy-depthai-ros-msgs, ros-jazzy-joy-linux, ros-jazzy-nav2-common, ros-jazzy-rplidar-ros, ros-jazzy-teleop-twist-joy (>= 2.6.1), ros-jazzy-tf2-ros, ros-jazzy-turtlebot4-description, ros-jazzy-turtlebot4-diagnostics, ros-jazzy-turtlebot4-node, ros-jazzy-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-turtlebot4-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-create3-republisher, ros-jazzy-depthai-bridge, ros-jazzy-depthai-examples, ros-jazzy-depthai-ros-driver, ros-jazzy-depthai-ros-msgs, ros-jazzy-joy-linux, ros-jazzy-nav2-common, ros-jazzy-rplidar-ros, ros-jazzy-teleop-twist-joy (>= 2.6.1), ros-jazzy-tf2-ros, ros-jazzy-turtlebot4-description, ros-jazzy-turtlebot4-diagnostics, ros-jazzy-turtlebot4-node, ros-jazzy-ros-workspace
+Description: Turtlebot4 Robot Bringup
