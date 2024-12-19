@@ -2,6 +2,11 @@
 Changelog for package turtlebot4_bringup
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+2.0.1 (2024-10-23)
+------------------
+* Fix the OakD launch so camera topics are properly namespaced when using a non-empty robot namespace
+* Contributors: Chris Iverach-Brereton
+
 2.0.0 (2024-09-25)
 ------------------
 * Enable power-saver by default
