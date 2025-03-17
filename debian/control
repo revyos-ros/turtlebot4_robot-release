@@ -1,0 +1,12 @@
+Source: ros-humble-turtlebot4-bringup
+Section: misc
+Priority: optional
+Maintainer: rkreinin <rkreinin@clearpathrobotics.com>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-auto <!nocheck>, ros-humble-ament-lint-common <!nocheck>, ros-humble-create3-republisher, ros-humble-depthai-bridge, ros-humble-depthai-examples, ros-humble-depthai-ros-driver, ros-humble-depthai-ros-msgs, ros-humble-joy-linux, ros-humble-nav2-common, ros-humble-rplidar-ros, ros-humble-teleop-twist-joy, ros-humble-tf2-ros, ros-humble-turtlebot4-description, ros-humble-turtlebot4-diagnostics, ros-humble-turtlebot4-node, ros-humble-ros-workspace
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-turtlebot4-bringup
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-create3-republisher, ros-humble-depthai-bridge, ros-humble-depthai-examples, ros-humble-depthai-ros-driver, ros-humble-depthai-ros-msgs, ros-humble-joy-linux, ros-humble-nav2-common, ros-humble-rplidar-ros, ros-humble-teleop-twist-joy, ros-humble-tf2-ros, ros-humble-turtlebot4-description, ros-humble-turtlebot4-diagnostics, ros-humble-turtlebot4-node, ros-humble-ros-workspace
+Description: Turtlebot4 Robot Bringup
